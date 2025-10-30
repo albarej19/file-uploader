@@ -59,7 +59,7 @@ uvicorn main:app --reload
 That's it! The server should be running at http://127.0.0.1:8000 
 You can see the API docs at http://127.0.0.1:8000/docs
 
-## How I built this �
+## How I built this 
 
 ### Why I organized the files this way:
 I tried to keep things organized by splitting the code into different files:
