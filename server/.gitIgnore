@@ -1,0 +1,12 @@
+# Python Virtual Environment
+venv/
+.venv/
+__pycache__/
+
+# Files created during runtime
+uploaded_files/
+file_data.db
+*.pyc
+
+# IDE/Editor files (e.g., VS Code)
+.vscode/
